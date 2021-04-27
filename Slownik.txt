@@ -1,0 +1,5 @@
+zlepianie,clumping
+w towarzystwie,accompanied by
+zgodna,coincident
+bezprzewodowy,cordless
+wszechobecny,ubiquitous
